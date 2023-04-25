@@ -3,7 +3,7 @@
 **What you need to do to make it work:**
 1. Register or use an email account that has two-factor authentication
 2. Configure SMPT to match the mail service you use (the project is configured to use Outlook)
-3. Get the application password (click to see how to do this on Outlook)
+3. Get the application password ([click to see how to do this on Outlook](https://support.microsoft.com/en-us/account-billing/using-app-passwords-with-apps-that-don-t-support-two-step-verification-5896ed9b-4263-e681-128a-a6f2979a7944 "click to see how to do this on Outlook"))
 
 Pass in as environment variables
 ```
