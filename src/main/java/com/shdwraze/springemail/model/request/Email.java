@@ -1,4 +1,4 @@
-package com.shdwraze.springemail.model;
+package com.shdwraze.springemail.model.request;
 
 import jakarta.validation.constraints.NotBlank;
 

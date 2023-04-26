@@ -1,0 +1,1 @@
+insert into user_entity (email, password) values ('shdwrazedev@gmail.com', '$2a$12$3nftMmh95kdoaDOA0DM3nOsBJFtyz7BZcRczrKCum93x2bjbPQuhm');
