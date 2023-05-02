@@ -134,6 +134,7 @@ public class EmailServiceImpl implements EmailService {
     }
 
     private String getAppUrl(HttpServletRequest request) {
-        return request.getScheme() + "://" + request.getHeader("host");
+//        return request.getScheme() + "://" + request.getHeader("host"); // for localhost; for front-end use return request.header("Referer")
+        return request.getHeader("Referer");
     }
 }
